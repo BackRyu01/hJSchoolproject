@@ -1,0 +1,66 @@
+td {
+    border: 2px groove black;
+    background-color: rgb(55, 56, 58) ;
+    text-align: center;
+    color: aliceblue;
+}
+
+thead,
+th {
+    border: 5px groove black;
+    background-color: rgb(48,48.48);
+    color: aliceblue;
+    text-align: center;
+}
+thead,
+P {text-align: center;
+    font-size:17px;
+        color: aliceblue;}
+H2 {text-align: center;
+        color: aliceblue;}
+}
+table {
+  border-spacing: 2px;
+}
+th, td {
+    padding: 15px;}
+a:link {
+  color: crimson; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkcyan;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: slategray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: dimgray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.welc {
+  border: 5px outset black;
+  background-color: rgb(48,48.48);
+  text-align: center;
+    color: aliceblue;
+  }
+.detail {
+    border: 5px outset black;
+    background-color:rgb(46,48,50);
+    text-align: center;
+    font-size: 17px;
+    color: aliceblue;
+  }
+.mid {
+  margin-left: auto;
+  margin-right: auto;
+}
